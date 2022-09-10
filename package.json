@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.19.0",
-    "@types/babel-types": "^7.0.11"
+    "@babel/helper-plugin-utils": "^7.19.0",
+    "@babel/preset-env": "^7.19.0",
+    "@types/babel-types": "^7.0.11",
+    "@types/babel__helper-plugin-utils": "^7.10.0"
   },
   "devDependencies": {
     "@babel/types": "^7.19.0",
